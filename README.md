@@ -29,8 +29,14 @@ MUSDB18 contains 150 full-length music tracks, each provided as a mixture along 
 This dataset is officially recommended in the Spleeter documentation [14] and has been used extensively in prior source separation research [15] and model training, ensuring compatibility with our chosen framework and reliable performance in practice.
 
 ## Timeline and Milestones
+<p align="center">
+  <img src="./Project_Timeline.png" width="700"/>
+</p>
 
 ## Roles and Responsibilities
+<p align="center">
+  <img src="./roles_and_responsibilities.png" width="1000"/>
+</p>
 
 ## Future Extensions
 Possible extensions include real-time audio input, user controlled visual mappings, or alternative source separation models. These are considered stretch goals beyond the current scope. Another potential development is integration with a VR headset within the Unreal Engine environment. VR integration could provide a more immersive multisensory experience by allowing users to perceive sound through spatial and visual cues, which may be particularly beneficial for individuals with hearing impairments.
