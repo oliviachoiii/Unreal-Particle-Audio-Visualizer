@@ -35,27 +35,41 @@ This dataset is officially recommended in the Spleeter documentation [14] and ha
 ## Future Extensions
 Possible extensions include real-time audio input, user controlled visual mappings, or alternative source separation models. These are considered stretch goals beyond the current scope. Another potential development is integration with a VR headset within the Unreal Engine environment. VR integration could provide a more immersive multisensory experience by allowing users to perceive sound through spatial and visual cues, which may be particularly beneficial for individuals with hearing impairments.
 
-## Olivia's objectives
+## Olivia Choi objectives
 
-## Sofiia's objectives 
+## Sofiia Khutorna objectives 
 
-## Kedan's objectives
+## Kedan Freeman objectives
 
 ## References
 
 [1]	“Creating Visual Effects in Niagara for Unreal Engine | Unreal Engine 5.7 Documentation | Epic Developer Community,” Epic Games Developer. Accessed: Feb. 08, 2026. [Online]. Available: https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-visual-effects-in-niagara-for-unreal-engine  
+
 [2]	G. Keerthi, “A Survey on Music Source Separation using Deep Learning,” Int. J. Res. Publ. Rev., vol. 5, Nov. 2024, [Online]. Available: https://ijrpr.com/uploads/V5ISSUE11/IJRPR35780.pdf  
+
 [3]	Z. Rafii, A. Liutkus, F.-R. Stöter, S. I. Mimilakis, and R. Bittner, “MUSDB18-HQ-SigSep.” Zenodo, Aug. 01, 2019. doi: 10.5281/ZENODO.3338373. 
+
 [4]	deezer/spleeter. (Feb. 09, 2026). Python. Deezer. Accessed: Feb. 08, 2026. [Online]. Available: https://github.com/deezer/spleeter  
+
 [5]	R. Hennequin, A. Khlif, F. Voituret, and M. Moussallam, “Spleeter: a fast and efficient music source separation tool with pre-trained models,” J. Open Source Softw., vol. 5, no. 50, p. 2154, Jun. 2020, doi: 10.21105/joss.02154. 
+
 [6]	“How to Create Audio Effects in Niagara for Unreal Engine | Unreal Engine 5.7 Documentation | Epic Developer Community,” Epic Games Developer. Accessed: Feb. 08, 2026. [Online]. Available: https://dev.epicgames.com/documentation/en-us/unreal-engine/how-to-create-audio-effects-in-niagara-for-unreal-engine  
+
 [7]	“Audio Synesthesia in Unreal Engine | Unreal Engine 5.7 Documentation | Epic Developer Community,” Epic Games Developer. Accessed: Feb. 08, 2026. [Online]. Available: https://dev.epicgames.com/documentation/en-us/unreal-engine/audio-synesthesia-in-unreal-engine 
+
 [8]	“Overview of submixes in Unreal Engine | Unreal Engine 5.7 Documentation | Epic Developer Community,” Epic Games Developer. Accessed: Feb. 08, 2026. [Online]. Available: https://dev.epicgames.com/documentation/en-us/unreal-engine/overview-of-submixes-in-unreal-engine  
+
 [9]	I. Newton, Opticks. London : Printed for Sam Smith, and Benj. Walford, printers to the Royal Society, at the prince’s Arms in St. paul’s Church-yard, 1704. Accessed: Feb. 09, 2026. [Online]. Available: http://archive.org/details/opticksortreatis00newt  
+
 [10]	L. Vickery, “Some approaches to representing sound with colour and shape,” Res. Outputs 2014 2021, Jan. 2018, [Online]. Available: https://ro.ecu.edu.au/ecuworkspost2013/6410  
+
 [11]	G. Hamilton-Fletcher, C. Witzel, D. Reby, and J. Ward, “Sound Properties Associated With Equiluminant Colours,” Jan. 2017, doi: 10.1163/22134808-00002567. 
+
 [12]	C. Spence and N. Di Stefano, “Coloured hearing, colour music, colour organs, and the search for perceptually meaningful correspondences between colour and sound,” -Percept., vol. 13, no. 3, p. 20416695221092802, May 2022, doi: 10.1177/20416695221092802. 
+
 [13]	L. Wilms and D. Oberfeld, “Color and emotion: effects of hue, saturation, and brightness,” Psychol. Res., vol. 82, no. 5, pp. 896–914, Sep. 2018, doi: 10.1007/s00426-017-0880-8. 
+
 [14]	“Getting started,” GitHub. Accessed: Feb. 08, 2026. [Online]. Available: https://github.com/deezer/spleeter/wiki/2.-Getting-started  
+
 [15]	S. S. Parvathi and D. Chandrasekar, “Feature separation of music across diverse dataset: a comparative perspective,” Bull. Electr. Eng. Inform., vol. 14, no. 5, pp. 3903–3912, Oct. 2025, doi: 10.11591/eei.v14i5.9962. 
 
