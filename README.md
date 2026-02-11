@@ -43,10 +43,52 @@ Possible extensions include real-time audio input, user controlled visual mappin
 
 ## Olivia Choi objectives
 
+* Implement a functional audio source separation pipeline for music visualization
+  * PI1 (basic): Find a website that does audio separation.
+  * PI2 (basic): Install and configure Spleeter, and successfully separate one track into 5 stems (vocals, drums, bass, piano, other).
+  * PI3 (expected): Measure and report performance between Spleeter and Demucs.
+  * PI4 (expected): Design script to export separated audio sources from python.
+  * PI5 (advanced): Create a Spleeter and Unreal engine integrated pipeline, which seamlessly processes and displays separated audio sources in one pipeline.
+
+* Create a scene with responsive Niagara particles:
+  * PI1 (basic): Create a basic scene in UE with one Niagara particle system 
+  * PI2 (basic): Import separate audio stems inside of UE and be able to access it
+  * PI3 (expected): Create a Blueprint that makes the particle system change dynamically based on one of the audio input
+  * PI4  (expected): Create multiple particle systems, map them to separate audio stems and ensure all of them react to different parameters (not just the pitch)
+  * PI5 (advanced): Enhance visuals of the scene (create toggles for each particle system that can turn visuals on and off, add a more complex background, different colours and shapes particles etc.)
+
 ## Sofiia Khutorna objectives 
 
+* Implement a functional audio source separation pipeline for music visualization
+  * PI1 (basic): Find a website that does audio separation.
+  * PI2 (basic): Install and configure Spleeter, and successfully separate one track into 5 stems (vocals, drums, bass, piano, other).
+  * PI3 (expected): Measure and report performance between Spleeter and Demucs.
+  * PI4 (expected): Design script to export separated audio sources from python.
+  * PI5 (advanced): Create a Spleeter and Unreal engine integrated pipeline, which seamlessly processes and displays separated audio sources in one pipeline.
+
+* Create a scene with responsive Niagara particles:
+  * PI1 (basic): Create a basic scene in UE with one Niagara particle system 
+  * PI2 (basic): Import separate audio stems inside of UE and be able to access it
+  * PI3 (expected): Create a Blueprint that makes the particle system change dynamically based on one of the audio input
+  * PI4  (expected): Create multiple particle systems, map them to separate audio stems and ensure all of them react to different parameters (not just the pitch)
+  * PI5 (advanced): Enhance visuals of the scene (create toggles for each particle system that can turn visuals on and off, add a more complex background, different colours and shapes particles etc.)
+ 
 ## Kedan Freeman objectives
 
+* Implement a functional audio source separation pipeline for music visualization
+  * PI1 (basic): Find a website that does audio separation.
+  * PI2 (basic): Install and configure Spleeter, and successfully separate one track into 5 stems (vocals, drums, bass, piano, other).
+  * PI3 (expected): Measure and report performance between Spleeter and Demucs.
+  * PI4 (expected): Design script to export separated audio sources from python.
+  * PI5 (advanced): Create a Spleeter and Unreal engine integrated pipeline, which seamlessly processes and displays separated audio sources in one pipeline.
+
+* Create a scene with responsive Niagara particles:
+  * PI1 (basic): Create a basic scene in UE with one Niagara particle system 
+  * PI2 (basic): Import separate audio stems inside of UE and be able to access it
+  * PI3 (expected): Create a Blueprint that makes the particle system change dynamically based on one of the audio input
+  * PI4  (expected): Create multiple particle systems, map them to separate audio stems and ensure all of them react to different parameters (not just the pitch)
+  * PI5 (advanced): Enhance visuals of the scene (create toggles for each particle system that can turn visuals on and off, add a more complex background, different colours and shapes particles etc.)
+    
 ## References
 
 [1]	“Creating Visual Effects in Niagara for Unreal Engine | Unreal Engine 5.7 Documentation | Epic Developer Community,” Epic Games Developer. Accessed: Feb. 08, 2026. [Online]. Available: https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-visual-effects-in-niagara-for-unreal-engine  
